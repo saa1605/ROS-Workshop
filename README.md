@@ -1,2 +1,2 @@
 # ROS-Workshop
-Workshop on Robot operating System
+Workshop on Robot Operating System
