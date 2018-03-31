@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/saaket/ROS-Workshop/devel -DCMAKE_INSTALL_PREFIX=/home/saaket/ROS-Workshop/install -G Unix Makefiles
